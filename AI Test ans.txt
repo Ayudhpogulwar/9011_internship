@@ -1,0 +1,195 @@
+ KIRAN ACADEMY
+
+ AI AWARENESS QUIZ – 60 QUESTIONS WITH ANSWERS
+
+ Section A – AI Companies & Latest Models
+
+1. ChatGPT is developed by which company?
+Answer: OpenAI.
+
+2. Claude is developed by which AI company?
+Answer: Anthropic.
+
+3. Gemini is developed by which company?
+Answer: Google.
+
+4. Llama models are developed by which company?
+Answer: Meta.
+
+5. Grok is developed by which company?
+Answer: xAI.
+
+6. Mistral AI is headquartered in which country?
+Answer: France.
+
+7. What is the name of OpenAI's flagship GPT-6 frontier model?
+Answer: GPT-6; the exact flagship variant needs confirmation.
+
+8. Which OpenAI model is positioned as a lower-cost model with near-Astra intelligence for coding and professional work?
+Answer: Needs confirmation from the official OpenAI model list.
+
+9. What is Anthropic's latest Haiku model called as of October 2026?
+Answer: Needs confirmation from Anthropic's official model list.
+
+10. What is Google's latest flagship Gemini model called as of October 2026?
+Answer: Needs confirmation from Google's official model list.
+
+Section B – Generative AI & LLM Concepts
+
+11. What does LLM stand for?
+Answer: Large Language Model.
+
+12. What is Generative AI?
+Answer: Generative AI creates new content, such as text, images, audio, and videos.
+
+13. What is a prompt in Generative AI?
+Answer: A prompt is an instruction or question given to an AI model.
+
+14. What is a system prompt?
+Answer: A system prompt gives the AI its basic instructions, role, and behaviour.
+
+15. What is an AI hallucination?
+Answer: An AI hallucination occurs when AI generates incorrect or made-up information as if it were true.
+
+16. What is a token in an LLM?
+Answer: A token is a small unit of text that an AI model processes.
+
+17. What does context window mean?
+Answer: A context window is the amount of information an AI model can process at one time.
+
+18. What is inference in AI?
+Answer: Inference is the process of using a trained AI model to generate an answer or prediction.
+
+19. What is fine-tuning?
+Answer: Fine-tuning means further training a pretrained AI model on specific data to improve its performance.
+
+20. What does multimodal AI mean?
+Answer: Multimodal AI can understand or generate different types of content, such as text, images, audio, and video.
+
+Section C – Agents, RAG & Modern AI Development
+
+21. What is an AI agent?
+Answer: An AI agent can understand a goal, plan steps, use tools, and perform tasks with some independence.
+
+22. What is the main difference between a chatbot and an AI agent?
+Answer: A chatbot mainly responds to messages, while an AI agent can also use tools and perform actions to complete tasks.
+
+23. What does RAG stand for?
+Answer: Retrieval-Augmented Generation.
+
+24. Why is RAG used with LLMs?
+Answer: RAG helps an LLM answer questions using relevant external information.
+
+25. What is an embedding?
+Answer: An embedding is a numerical representation of data that helps AI identify similarities in meaning.
+
+26. What is a vector database used for in AI applications?
+Answer: It stores and searches numerical vectors to find information with similar meanings.
+
+27. What does tool calling allow an AI model to do?
+Answer: Tool calling allows an AI model to request actions from external tools, APIs, or software functions.
+
+28. What does MCP stand for in modern AI application development?
+Answer: Model Context Protocol.
+
+29. What is an API key used for?
+Answer: An API key is used to identify and authenticate an application when accessing an API.
+
+30. What is meant by an agentic workflow?
+Answer: An agentic workflow is a process in which AI plans and performs multiple steps to achieve a goal.
+
+Section D – AI Image, Video, Audio & Famous Tools
+
+31. Midjourney is mainly famous for generating what type of content?
+Answer: Images and digital artwork.
+
+32. Sora is primarily associated with which type of AI generation?
+Answer: AI video generation.
+
+33. What is the name of OpenAI's current image-generation model family?
+Answer: GPT Image; verify the exact current model family name.
+
+34. What does text-to-image mean?
+Answer: Text-to-image means generating an image from a written description.
+
+35. What does text-to-video mean?
+Answer: Text-to-video means generating a video from a written description.
+
+36. What does TTS stand for?
+Answer: Text-to-Speech.
+
+37. What does STT stand for?
+Answer: Speech-to-Text.
+
+38. What does OCR do?
+Answer: OCR extracts text from images, scanned documents, and photographs.
+
+39. What is a vision-language model?
+Answer: It is an AI model that can understand both visual information and language.
+
+40. What is voice cloning in AI?
+Answer: Voice cloning uses AI to create a voice that resembles a particular person's voice.
+
+Section E – Coding AI, Hardware & Practical Awareness
+
+41. GitHub Copilot is mainly used for what purpose?
+Answer: It helps programmers write, explain, debug, and improve code.
+
+42. Cursor is mainly used for what type of work?
+Answer: Cursor is an AI-powered code editor used for writing and modifying code.
+
+43. What is an AI coding assistant?
+Answer: An AI coding assistant helps programmers write, debug, explain, and improve code.
+
+44. What hardware component is most commonly used to train large AI models?
+Answer: GPU (Graphics Processing Unit).
+
+45. What does GPU stand for?
+Answer: Graphics Processing Unit.
+
+46. What does NPU stand for?
+Answer: Neural Processing Unit.
+
+47. What is VRAM mainly used for during AI workloads?
+Answer: VRAM stores model weights, data, and intermediate computations needed by the GPU.
+
+48. What does running an AI model locally mean?
+Answer: It means running an AI model on your own computer or device instead of relying entirely on a remote server.
+
+49. What is an open-weight AI model?
+Answer: It is an AI model whose trained weights are publicly available, subject to its licence.
+
+50. What is model distillation?
+Answer: Model distillation is a technique in which a smaller model learns to imitate a larger model.
+
+Section F – Latest AI Awareness & 2026 News
+
+51. Which OpenAI model family includes Astra, Sol and Luna?
+Answer: Needs verification from the official OpenAI model information.
+
+52. Which OpenAI GPT-6 model is designed for the most demanding frontier work?
+Answer: GPT-6; the exact model variant needs verification.
+
+53. Which Claude 5.5 model is positioned for complex agentic coding and knowledge work?
+Answer: Needs verification from Anthropic's official model information.
+
+54. Which Claude 5.5 model is designed for fast, high-volume and cost-sensitive work?
+Answer: Needs verification from Anthropic's official model information.
+
+55. What is Google's Gemini 4 flagship model called?
+Answer: Needs verification from Google's official model information.
+
+56. What is the name of OpenAI's current model family for advanced image generation and editing?
+Answer: GPT Image; verify the exact model family name for the quiz date.
+
+57. What is the name of OpenAI's current realtime voice model family?
+Answer: Needs verification from OpenAI's official model information.
+
+58. Which company develops the Claude Opus, Sonnet and Haiku model families?
+Answer: Anthropic.
+
+59. What AI safety risk occurs when malicious instructions are hidden inside external content and try to control the model?
+Answer: Prompt injection.
+
+60. Why should important medical, legal, financial or business information generated by AI be verified by a human?
+Answer: AI can make mistakes or produce outdated or misleading information, so human verification helps prevent serious problems.
